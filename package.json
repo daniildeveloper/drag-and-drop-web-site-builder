@@ -1,0 +1,27 @@
+{
+  "name": "drag-and-drop-web-site-builder",
+  "version": "0.0.1",
+  "description": "simple web-site drag and drop bulder in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drag-and-drop",
+    "builder",
+    "gridmanager"
+  ],
+  "author": "daniiltserin",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babelify": "^7.3.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "eslint": "^3.11.1",
+    "gulp-concat": "^2.6.1"
+  }
+}
